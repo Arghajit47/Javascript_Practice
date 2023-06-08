@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>Inline JavaScript</title>
+        <meta name = "viewport" content="width-device-width, initial-scale=1">
+        <link rel="stylesheet" type="type/css" media="screen" href="main.css">
+        <!-- <script src="main.js"></script> -->
+    </head>
+    <body>
+        <h1>Welcome</h1>
+        <p id="sample"></p>
+        <script>
+            var thing = " Hello World!"
+            document.getElementById("sample").innerHTML = thing
+        </script>
+        
+    </body>
+</html>
+
+<!-- This way is also correct but here instead of sharing any files, we are executing the whole coding part inside the HTML file itself -->

@@ -1,0 +1,24 @@
+Use the included js file for this assignment.
+
+Create unit tests to verify that each scenario provides the expected results. 
+Make sure to test the happy path and any error scenarios you can think of.
+
+Once you have tested everything, go ahead and fix all the errors so that your tests all pass.
+
+Here is a simple explanation of the function:
+This is a simple Rock, Paper, Scissors function.
+There are 2 inputs. A value for player 1 and a value for player 2.
+You can use "r", "p", or "s" for the values.
+"r" = Rock
+"p" = Paper
+"s" = Scissors
+
+If you never played Rock, Paper, Scissors... here are the rules:
+Each player choose only one of "rock", "paper", or "scissors".
+
+To win:
+Rock beats scissors.
+Scissors beats paper.
+Paper beats rock.
+
+If both players choose the same item, then it is a tie and no one wins.

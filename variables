@@ -1,0 +1,39 @@
+MATH
+
+x + 20 = 25
+
+creating a variable = defining a variable
+
+var cartype
+var carcolor
+
+---------------
+
+var hairColor
+var eyeColor
+var address
+var phoneNumber
+
+---------------
+
+Naming Rules
+
+1. start any letter
+2. can't start with a number (some exceptions are there)
+3. any length
+4. case sensitive
+5. use camel case
+6. can't use reserved words
+
+
+
+--------------------------------
+
+var eyeColor = "Blue"
+
+-----------------------------
+
+var something = "The World"
+var me = "Who"
+var you = "Jason"
+var watching = "Movie"

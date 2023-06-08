@@ -1,0 +1,28 @@
+For 1 & 2, use the correct JavaScript Event.
+
+1. When Button 1 is clicked:
+
+    a. Paragraph 1 should be replaced with "Button 1 was clicked"
+
+    b. An alert should appear with text "Button 1 was clicked"
+
+
+
+2. When Text is typed into the first text field (and the cursor moved away):
+
+    a. Paragraph 2 should display "Characters typed" + the number of characters.
+
+
+
+For 3 & 4, use Event Listeners.
+
+3. When Button 2 is clicked:
+
+    a. Paragraph 3 should be removed
+
+
+
+4. When Text is typed into the second text field:
+
+    a. Paragraph 4 should change font size for each character entered
+

@@ -1,0 +1,7 @@
+Using the included .html and .js files, do the following:
+
+1. Change the text of "Heading 1" to "Welcome to my site!".
+2. Change the text of "Paragraph 1" to "My name is " and add your name.
+3. Remove the second H1 element 
+4. Change the font color of "Paragraph 2" to blue
+5. Change the text of "Paragraph 2" to "I love JavaScript"
